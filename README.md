@@ -61,7 +61,7 @@ Vision provides no content. The user is responsible for complying with the copyr
 
 ## Screenshots
 
-Light theme. Sample video in the frames.
+Light theme. A demo clip is used in the frames.
 
 <p>
 <img src="https://raw.githubusercontent.com/drugoj00/vision-for-windows/main/screenshots/en/01-home.png" width="420"> <img src="https://raw.githubusercontent.com/drugoj00/vision-for-windows/main/screenshots/en/04-player.png" width="420">

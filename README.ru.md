@@ -61,7 +61,7 @@ Vision не предоставляет контент. Пользователь 
 
 ## Скриншоты
 
-Светлая тема, язык интерфейса русский. Видео в кадрах: пример.
+Светлая тема, язык интерфейса русский. В кадрах использован демо-ролик.
 
 <p>
 <img src="https://raw.githubusercontent.com/drugoj00/vision-for-windows/main/screenshots/ru/01-home.png" width="420"> <img src="https://raw.githubusercontent.com/drugoj00/vision-for-windows/main/screenshots/ru/04-player.png" width="420">

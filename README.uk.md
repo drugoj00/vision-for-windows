@@ -61,7 +61,7 @@ Vision не надає контент. Користувач відповідає
 
 ## Знімки екрана
 
-Світла тема, мова інтерфейсу на знімках російська (українських знімків поки немає). Відео в кадрах: приклад.
+Світла тема, мова інтерфейсу українська. У кадрах використано демо-ролик.
 
 <p>
 <img src="https://raw.githubusercontent.com/drugoj00/vision-for-windows/main/screenshots/uk/01-home.png" width="420"> <img src="https://raw.githubusercontent.com/drugoj00/vision-for-windows/main/screenshots/uk/04-player.png" width="420">
