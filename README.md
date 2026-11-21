@@ -74,6 +74,6 @@ Light theme. Video in the frames: Blender Foundation films "Big Buck Bunny", "Si
 <img src="https://raw.githubusercontent.com/drugoj00/vision-for-windows/main/screenshots/en/09-video-window.png" width="420"> <img src="https://raw.githubusercontent.com/drugoj00/vision-for-windows/main/screenshots/en/08-camera-settings.png" width="260">
 </p>
 
-## License and credits
+## License
 
-The program uses libmpv (LGPL), libtorrent, the anacrolix/torrent engine (MPL-2.0), Qt for Python (PySide6, LGPL) and the face detection cascade from OpenCV (BSD).
+Proprietary license, see [LICENSE](LICENSE): all rights reserved; free for personal, non-commercial use, no ads; redistribution only as the original unmodified installer with the author named; the source code is not published. Third-party components keep their own licenses: libmpv (LGPL-2.1+), libtorrent (BSD-3-Clause), anacrolix/torrent (MPL-2.0), Qt for Python / PySide6 (LGPL-3.0), OpenCV face detection cascade (BSD-3-Clause), Python (PSF). Country data: DB-IP "IP to Country Lite" (CC BY 4.0). Links to every component are in [LICENSE](LICENSE).

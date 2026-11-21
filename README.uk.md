@@ -74,6 +74,6 @@ SHA-256: `b9b4bfd8a510dd4775c7e1f544fd312fecc29c89f752fe2bf9d6f7658a93982e`
 <img src="https://raw.githubusercontent.com/drugoj00/vision-for-windows/main/screenshots/uk/09-video-window.png" width="420"> <img src="https://raw.githubusercontent.com/drugoj00/vision-for-windows/main/screenshots/uk/08-camera-settings.png" width="260">
 </p>
 
-## Ліцензія та подяки
+## Ліцензія
 
-Програма використовує libmpv (LGPL), libtorrent, торент-рушій anacrolix/torrent (MPL-2.0), Qt для Python (PySide6, LGPL) і каскад пошуку облич з OpenCV (BSD).
+Власна ліцензія, див. [LICENSE](LICENSE): усі права захищено; безкоштовно для особистого некомерційного використання, без реклами; поширювати можна лише оригінальний незмінений інсталятор із зазначенням автора; вихідний код не публікується. Сторонні компоненти зберігають свої ліцензії: libmpv (LGPL-2.1+), libtorrent (BSD-3-Clause), anacrolix/torrent (MPL-2.0), Qt для Python / PySide6 (LGPL-3.0), каскад пошуку облич з OpenCV (BSD-3-Clause), Python (PSF). Дані про країни: DB-IP «IP to Country Lite» (CC BY 4.0). Посилання на всі компоненти є в [LICENSE](LICENSE).

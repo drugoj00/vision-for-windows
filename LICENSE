@@ -1,0 +1,78 @@
+VISION FOR WINDOWS: LICENSE / ЛІЦЕНЗІЯ / ЛИЦЕНЗИЯ
+Copyright (c) 2026 drugoj00. All rights reserved. / Усі права захищено. / Все права защищены.
+https://drugoj00.github.io/
+
+Languages: English | Українська | Русский.
+Version of this text: 1 (21.11.2026). If translations differ, the English text applies.
+
+======================================================================
+ENGLISH
+======================================================================
+
+1. What you get. Vision for Windows (the "Program") is free for personal, non-commercial use. It contains no advertising. You may install it on your own computers.
+
+2. Ownership. The Program is protected by copyright. All rights not expressly granted here are reserved by the author. The source code is not published and no license to it is granted.
+
+3. Redistribution. You may share the Program only in its original, unmodified form (the original installer as published by the author), free of charge, and only with the author's name and the link above kept intact. You may not sell it, bundle it with other software or paid services, or place advertising around it.
+
+4. Restrictions. You may not modify the Program, remove or change the author's notices, rebrand it, publish modified builds, or decompile, disassemble or reverse engineer it, except where applicable law expressly allows this despite this restriction, and except for rights you have under the licenses of third-party components listed in clause 6.
+
+5. Content and your responsibility. The Program does not contain or provide any content. It is a neutral playback tool. You are solely responsible for the links, playlists, torrents, files, cameras and other sources you open with it, and for following the laws of your country, including copyright law. The author is not responsible for how you use the Program.
+
+6. Third-party components. The Program uses third-party components under their own licenses, which stay in force and are not limited by this text: libmpv (LGPL-2.1 or later, https://mpv.io), libtorrent (BSD-3-Clause, https://libtorrent.org), anacrolix/torrent (MPL-2.0, https://github.com/anacrolix/torrent), Qt for Python / PySide6 (LGPL-3.0, https://doc.qt.io/qtforpython-6/), the face detection cascade from OpenCV (BSD-3-Clause, https://opencv.org), Python (PSF License, https://docs.python.org/3/license.html). Components the Program downloads at your request keep their own licenses too: FFmpeg (https://ffmpeg.org/legal.html). Country detection uses the "IP to Country Lite" data by DB-IP (CC BY 4.0, https://db-ip.com). The free films offered as examples are by the Blender Foundation (CC BY, https://studio.blender.org).
+
+7. No warranty. The Program is provided "as is", without warranty of any kind. To the extent permitted by law, the author is not liable for any damage, data loss or consequences arising from the use of the Program.
+
+8. Network services. The Program contacts external services only for the purposes described in the "About" and settings pages: checking for updates on GitHub (can be turned off in the settings), downloading optional components and the Vision Server add-on when you ask, channel lists, and checking the external address and port for torrents. Torrent, IPTV and other traffic goes to the addresses you open.
+
+9. Termination. This license ends automatically if you break its terms. Then you must stop using the Program and delete your copies.
+
+10. Contact. Questions and bug reports: https://drugoj00.github.io/
+
+======================================================================
+УКРАЇНСЬКА
+======================================================================
+
+1. Що ви отримуєте. Vision для Windows («Програма») безкоштовна для особистого некомерційного використання. Реклами в ній немає. Ви можете встановлювати її на власні комп'ютери.
+
+2. Авторські права. Програму захищено авторським правом. Усі права, прямо не надані цим текстом, залишаються за автором. Вихідний код не публікується, ліцензії на нього не надається.
+
+3. Поширення. Поширювати Програму можна лише в оригінальному, незміненому вигляді (оригінальний інсталятор, опублікований автором), безкоштовно і лише зі збереженням імені автора та посилання вище. Продавати її, додавати до іншого програмного забезпечення чи платних послуг, розміщувати навколо неї рекламу не можна.
+
+4. Обмеження. Не можна змінювати Програму, видаляти чи міняти повідомлення про авторство, видавати її під іншою назвою, публікувати змінені збірки, а також декомпілювати, дизасемблювати чи досліджувати її внутрішню будову, окрім випадків, коли чинне законодавство прямо це дозволяє попри це обмеження, та окрім прав, які ви маєте за ліцензіями сторонніх компонентів із пункту 6.
+
+5. Вміст і ваша відповідальність. Програма не містить і не надає жодного вмісту. Це нейтральний інструмент відтворення. Ви самі повністю відповідаєте за посилання, плейлисти, торенти, файли, камери та інші джерела, які відкриваєте за її допомогою, і за дотримання законів своєї країни, зокрема авторського права. Автор не відповідає за те, як ви використовуєте Програму.
+
+6. Сторонні компоненти. Програма використовує сторонні компоненти за їхніми ліцензіями, які залишаються чинними і не обмежуються цим текстом: libmpv (LGPL-2.1 або новіша, https://mpv.io), libtorrent (BSD-3-Clause, https://libtorrent.org), anacrolix/torrent (MPL-2.0, https://github.com/anacrolix/torrent), Qt для Python / PySide6 (LGPL-3.0, https://doc.qt.io/qtforpython-6/), каскад пошуку облич з OpenCV (BSD-3-Clause, https://opencv.org), Python (ліцензія PSF, https://docs.python.org/3/license.html). Компоненти, які Програма завантажує на ваше прохання, також зберігають свої ліцензії: FFmpeg (https://ffmpeg.org/legal.html). Визначення країни використовує дані «IP to Country Lite» від DB-IP (CC BY 4.0, https://db-ip.com). Вільні фільми, що пропонуються як приклади, належать Blender Foundation (CC BY, https://studio.blender.org).
+
+7. Без гарантій. Програма надається «як є», без жодних гарантій. У межах, дозволених законом, автор не відповідає за збитки, втрату даних чи наслідки використання Програми.
+
+8. Мережеві служби. Програма звертається до зовнішніх служб лише для цілей, описаних на сторінках «Про програму» та налаштувань: перевірка оновлень на GitHub (можна вимкнути в налаштуваннях), завантаження додаткових компонентів і додатка Vision Server на ваше прохання, списки каналів, перевірка зовнішньої адреси й порту для торентів. Торентний, IPTV та інший трафік іде на адреси, які ви відкриваєте.
+
+9. Припинення. Ліцензія припиняється автоматично, якщо ви порушуєте її умови. Тоді слід припинити користування Програмою й видалити копії.
+
+10. Контакти. Питання та повідомлення про помилки: https://drugoj00.github.io/
+
+======================================================================
+РУССКИЙ
+======================================================================
+
+1. Что вы получаете. Vision для Windows («Программа») бесплатна для личного некоммерческого использования. Рекламы в ней нет. Вы можете устанавливать её на свои компьютеры.
+
+2. Авторское право. Программа защищена авторским правом. Все права, прямо не предоставленные этим текстом, сохраняются за автором. Исходный код не публикуется, лицензия на него не предоставляется.
+
+3. Распространение. Распространять Программу можно только в оригинальном, неизменённом виде (оригинальный установщик, опубликованный автором), бесплатно и только с сохранением имени автора и ссылки выше. Продавать её, включать в состав другого программного обеспечения или платных услуг, размещать вокруг неё рекламу нельзя.
+
+4. Ограничения. Нельзя изменять Программу, удалять или менять сведения об авторстве, выдавать её под другим названием, публиковать изменённые сборки, а также декомпилировать, дизассемблировать или исследовать её внутреннее устройство, кроме случаев, когда действующий закон прямо разрешает это вопреки данному ограничению, и кроме прав, которые у вас есть по лицензиям сторонних компонентов из пункта 6.
+
+5. Контент и ваша ответственность. Программа не содержит и не предоставляет никакого контента. Это нейтральный инструмент воспроизведения. Вы сами и полностью отвечаете за ссылки, плейлисты, торренты, файлы, камеры и другие источники, которые открываете с её помощью, и за соблюдение законов своей страны, в том числе об авторском праве. Автор не отвечает за то, как вы используете Программу.
+
+6. Сторонние компоненты. Программа использует сторонние компоненты по их собственным лицензиям, которые остаются в силе и не ограничиваются этим текстом: libmpv (LGPL-2.1 или новее, https://mpv.io), libtorrent (BSD-3-Clause, https://libtorrent.org), anacrolix/torrent (MPL-2.0, https://github.com/anacrolix/torrent), Qt для Python / PySide6 (LGPL-3.0, https://doc.qt.io/qtforpython-6/), каскад поиска лиц из OpenCV (BSD-3-Clause, https://opencv.org), Python (лицензия PSF, https://docs.python.org/3/license.html). Компоненты, которые Программа скачивает по вашей просьбе, тоже сохраняют свои лицензии: FFmpeg (https://ffmpeg.org/legal.html). Определение страны использует данные «IP to Country Lite» от DB-IP (CC BY 4.0, https://db-ip.com). Свободные фильмы, предлагаемые как примеры, принадлежат Blender Foundation (CC BY, https://studio.blender.org).
+
+7. Без гарантий. Программа предоставляется «как есть», без каких-либо гарантий. В пределах, разрешённых законом, автор не отвечает за ущерб, потерю данных и последствия использования Программы.
+
+8. Сетевые службы. Программа обращается к внешним службам только для целей, описанных на страницах «О программе» и настроек: проверка обновлений на GitHub (можно отключить в настройках), загрузка дополнительных компонентов и дополнения Vision Server по вашей просьбе, списки каналов, проверка внешнего адреса и порта для торрентов. Торрент-, IPTV- и другой трафик идёт на адреса, которые вы открываете.
+
+9. Прекращение. Лицензия прекращается автоматически, если вы нарушаете её условия. Тогда нужно прекратить пользоваться Программой и удалить копии.
+
+10. Контакты. Вопросы и сообщения об ошибках: https://drugoj00.github.io/
