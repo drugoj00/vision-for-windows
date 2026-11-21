@@ -2,6 +2,8 @@
 
 🌐 All our programs: https://drugoj00.github.io/ · Telegram channel: https://t.me/PhoneInWindowSound
 
+**Attention! Vision contains no video or audio content and no links to content.** **Screenshots are shown solely to demonstrate the app's features: the channels in them are not included in Vision, users add their own playlists.**
+
 # Vision for Windows
 
 A video player and torrent downloader for Windows in one window: paste a link, press "Watch", and the film plays at once while it keeps downloading. IPTV channels, camera and microphone input, a separate video window. No ads.
@@ -16,18 +18,19 @@ Vision plays files, links, playlists and torrents (magnet and .torrent), includi
 
 **Version 1.0.** [Vision-Win-1.0.exe](https://github.com/drugoj00/vision-for-windows/releases/download/v1.0/Vision-Win-1.0.exe) · [Releases](https://github.com/drugoj00/vision-for-windows/releases)
 
-SHA-256: `b9b4bfd8a510dd4775c7e1f544fd312fecc29c89f752fe2bf9d6f7658a93982e`
+SHA-256: `b916fac7739744a77c72866d32db7196fa74ad5d4a23fafe8f4bcea989eb4cd8`
 
 The installer is not yet signed with a publisher certificate: Windows may show a SmartScreen warning ("Unknown publisher"). Press "More info", then "Run anyway". Administrator rights are not needed to install.
 
 ## What's new in 1.0
 
-- First release: watching torrents while they download, downloader, IPTV channels, camera and microphone input
-- Separate video window: clean, panel on click; pause, volume, "return", "close", and while recording also record and snapshot
-- Face tracking and camera presets "For a video call" and "For recording"
-- "What are we watching?" home screen with quick action buttons; simple and detailed modes
-- Program update with a visible installer window, no silent installs
-- Russian, Ukrainian and English, light and dark themes
+- Channels as tiles with logos (at least 4 columns in auto mode); add your own playlist by link or from an M3U, M3U8, XSPF or PLS file
+- 18+ channels from the user's playlists go to a locked group with a password
+- Torrents by magnet and .torrent, watching while downloading, downloader
+- Camera and microphone input, face tracking
+- Detached video window, recording
+- Visible update window, no silent installs
+- Settings in groups; Russian, Ukrainian and English, light and dark themes
 
 ## Features
 
@@ -45,25 +48,27 @@ The installer is not yet signed with a publisher certificate: Windows may show a
 
 ## Requirements and limits
 
-- Windows 10 (1809 or newer) or Windows 11, 64-bit. Internet is needed for torrents and IPTV.
-- Face tracking looks for faces seen from the front (not in profile); the face must take at least 15% of the frame width. Camera recording is not cropped: tracking affects the view only.
-- In countries where torrents are prohibited they are blocked until confirmation; the country is detected offline.
-- Tested on Windows 11. Not verified live: face tracking and presets on different cameras, several monitors in "Cinema" mode.
+- Windows 10 (1809 or newer) or Windows 11, 64-bit; not from the Microsoft Store. The installer is not signed with a publisher certificate yet, so SmartScreen may warn
+- Internet is needed for torrents and IPTV
+- Face tracking looks for faces seen from the front (not in profile); the face must take at least 15% of the frame width. Camera recording is not cropped: tracking affects the view only
+- In countries where torrents are prohibited they are blocked until confirmation; the country is detected offline
+- In a window narrower than 900 px channels are shown in 3 columns
+- 18+ is sorted out by playlist content (channel name and group), but not when an .m3u is opened directly from Explorer and not in the playlist editor
+- In the dark theme dark logos on a dark card have low contrast
+- Not verified: live TV guide and playback of channels on different hardware, face tracking and presets on different cameras, several monitors in "Cinema" mode, Windows 10 older than 1809
+
+Vision provides no content. The user is responsible for complying with the copyright laws of their country.
 
 ## Screenshots
 
-Light theme. Video in the frames: Blender Foundation films "Big Buck Bunny", "Sintel" and "Tears of Steel" (CC BY).
+Light theme. Sample video in the frames.
 
 <p>
 <img src="https://raw.githubusercontent.com/drugoj00/vision-for-windows/main/screenshots/en/01-home.png" width="420"> <img src="https://raw.githubusercontent.com/drugoj00/vision-for-windows/main/screenshots/en/04-player.png" width="420">
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/drugoj00/vision-for-windows/main/screenshots/en/02-channels.png" width="420"> <img src="https://raw.githubusercontent.com/drugoj00/vision-for-windows/main/screenshots/en/03-channels-catalog.png" width="420">
-</p>
-
-<p>
-<img src="https://raw.githubusercontent.com/drugoj00/vision-for-windows/main/screenshots/en/05-torrents.png" width="420"> <img src="https://raw.githubusercontent.com/drugoj00/vision-for-windows/main/screenshots/en/06-downloads.png" width="420">
+<img src="https://raw.githubusercontent.com/drugoj00/vision-for-windows/main/screenshots/en/02-channels.png" width="420"> <img src="https://raw.githubusercontent.com/drugoj00/vision-for-windows/main/screenshots/en/03-channels-group.png" width="420">
 </p>
 
 <p>
