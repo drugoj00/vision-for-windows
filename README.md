@@ -2,7 +2,7 @@
 
 🌐 All our programs: https://drugoj00.github.io/ · Telegram channel: https://t.me/PhoneInWindowSound
 
-**Attention! Vision contains no video or audio content and no links to content.** **Screenshots are shown solely to demonstrate the app's features: the channels in them are not included in Vision, users add their own playlists.**
+**Vision contains no video or audio content and no links to content.** **Screenshots are shown solely to demonstrate the app's features: the channels in them are not included in Vision, users add their own playlists.**
 
 # Vision for Windows
 
@@ -31,9 +31,15 @@ The installer is not yet signed with a publisher certificate: Windows may show a
 - Detached video window, recording
 - Visible update window, no silent installs
 - Settings in groups; Russian, Ukrainian and English, light and dark themes
+- Passthrough sound: AC3, E-AC3, DTS, DTS-HD and TrueHD go to the receiver or TV as is (Off / Auto / Manual by format), WASAPI exclusive mode with a fall back to regular sound
+- Choice of the sound output device (remembered); during passthrough program sound filters, auto volume and equalizer are off and the program volume does not act
+- Optional stop of known third-party sound enhancers while passthrough plays (no registry changes, no administrator rights)
+- DTS to AC3 conversion and a separate sync correction in ms for passthrough
+- Smaller installer
 
 ## Features
 
+- **Passthrough sound.** AC3, E-AC3, DTS, DTS-HD and TrueHD to a receiver or TV as is (Auto or manual by format), WASAPI exclusive mode, device choice, DTS to AC3, sync correction.
 - **Watching torrents.** A magnet link, a file or a .torrent address, drag and drop into the window, "Watch link from clipboard". The file list comes first, then the chosen file plays. Seek anywhere, "Continue" from where you stopped.
 - **Two engines.** "Auto" (default), "Fast" and "Classic": the fast one drives watching, the classic one handles downloads, the queue and seeding. Choose in Settings → Engine and cache.
 - **Downloader.** Queue, speed limits, schedule, seeding (upload, time limit), moving finished files to the folder you need, file check, actions on completion.
@@ -55,7 +61,8 @@ The installer is not yet signed with a publisher certificate: Windows may show a
 - In a window narrower than 900 px channels are shown in 3 columns
 - 18+ is sorted out by playlist content (channel name and group), but not when an .m3u is opened directly from Explorer and not in the playlist editor
 - In the dark theme dark logos on a dark card have low contrast
-- Not verified: live TV guide and playback of channels on different hardware, face tracking and presets on different cameras, several monitors in "Cinema" mode, Windows 10 older than 1809
+- In the WASAPI exclusive mode other applications cannot play on the chosen device while passthrough plays; the volume of a passthrough stream is set on the receiver or TV
+- Not verified: passthrough sound on different receivers and TVs (formats, exclusive mode, names of enhancer processes), live TV guide and playback of channels on different hardware, face tracking and presets on different cameras, several monitors in "Cinema" mode, Windows 10 older than 1809
 
 Vision provides no content. The user is responsible for complying with the copyright laws of their country.
 
