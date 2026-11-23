@@ -16,13 +16,18 @@ Vision plays files, links, playlists and torrents (magnet and .torrent), includi
 
 ## Download
 
-**Version 1.0.** [Vision-Win-1.0.exe](https://github.com/drugoj00/vision-for-windows/releases/download/v1.0/Vision-Win-1.0.exe) · [Releases](https://github.com/drugoj00/vision-for-windows/releases)
+**Version 2.0.** [Vision-Win-2.0.exe](https://github.com/drugoj00/vision-for-windows/releases/download/v2.0/Vision-Win-2.0.exe) · [Releases](https://github.com/drugoj00/vision-for-windows/releases)
 
-SHA-256: `b916fac7739744a77c72866d32db7196fa74ad5d4a23fafe8f4bcea989eb4cd8`
+SHA-256: `f249e0681ff6aeae2c51195aa070705d0cc82ca11670aa0d32c5f8cd1cbe2123`
 
 The installer is not yet signed with a publisher certificate: Windows may show a SmartScreen warning ("Unknown publisher"). Press "More info", then "Run anyway". Administrator rights are not needed to install.
 
-## What's new in 1.0
+## What's new in 2.0
+
+- Playlist wizard: step-by-step adding for beginners (link, file, archive, clipboard, list of addresses); playlists from archives are added by themselves
+- Archives with playlists: ZIP, GZ, BZ2, XZ, TAR (also .tar.gz); read in memory, nothing is unpacked to disk
+
+## What was new in 1.0
 
 - Channels as tiles with logos (at least 4 columns in auto mode); add your own playlist by link or from an M3U, M3U8, XSPF or PLS file
 - 18+ channels from the user's playlists go to a locked group with a password
@@ -56,6 +61,7 @@ The installer is not yet signed with a publisher certificate: Windows may show a
 
 - Windows 10 (1809 or newer) or Windows 11, 64-bit; not from the Microsoft Store. The installer is not signed with a publisher certificate yet, so SmartScreen may warn
 - Internet is needed for torrents and IPTV
+- Archives with playlists: ZIP, GZ, BZ2, XZ, TAR; archives with a password, 7z and RAR are not supported
 - Face tracking looks for faces seen from the front (not in profile); the face must take at least 15% of the frame width. Camera recording is not cropped: tracking affects the view only
 - In countries where torrents are prohibited they are blocked until confirmation; the country is detected offline
 - In a window narrower than 900 px channels are shown in 3 columns
